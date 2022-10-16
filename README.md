@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=theblockchainarborist&label=Profile%20views&color=0e75b6&style=flat" alt="theblockchainarborist" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblockchainarborist" alt="theblockchainarborist" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theblockchainarborist&theme=onedark" alt="theblockchainarborist" /></a> </p>
 
 <h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theblockchainarborist&show_icons=true&locale=en" alt="theblockchainarborist" /></h3>
 
