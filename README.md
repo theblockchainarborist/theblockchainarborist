@@ -6,8 +6,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=theblockchainarborist&theme=onestar" alt="theblockchainarborist" /> </a> </p>
 
-<h3 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theblockchainarborist&show_icons=true&locale=en" alt="theblockchainarborist" /></h3>
-
 <h3 align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theblockchainarborist&" alt="theblockchainarborist" /></p>
 </h3>
