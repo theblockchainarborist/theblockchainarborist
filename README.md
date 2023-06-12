@@ -13,7 +13,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,vue,html,css,linux,bash,git,md,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,java,vue,react,threejs,html,css,linux,bash,git,github,nodejs,md,postgres" />
   </a>
 </p>
 
